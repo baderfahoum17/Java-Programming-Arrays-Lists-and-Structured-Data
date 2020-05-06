@@ -1,6 +1,5 @@
 public class CaesarBreaker {
 /**
- * This class belongs to the Assignment 1 exercise. For mor info, 
  * 
  * 
  * @author (Bader Fahoum) 
